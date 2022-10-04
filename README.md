@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vignesh Dharmendra
-- 👀 I’m interested in Open Source contribution, AI and ML
-- 🌱 I’m currently learning git and java.
+- 👀 I’m interested in Web Devlopment, Data Analytics and ML
+- 🌱 I’m currently learning Javascript and CSS.
 - 💞️ I’m looking to collaborate on anything basic to get a groove.
 - 📫 How to reach me ...
 
